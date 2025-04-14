@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Ajay Gandi | Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Ajay Gandi</h1>
+    <p>Python Developer | Tech Enthusiast</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>I am a B.Tech graduate in Mechanical Engineering with a passion for software development. Experienced in backend development using Python, Django, and APIs. Certified in MySQL and Data Analysis.</p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>Python</li>
+      <li>Django</li>
+      <li>MySQL</li>
+      <li>Git, Docker</li>
+      <li>AWS</li>
+      <li>REST APIs</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <p>Coming Soon...</p>
+  </section>
+
+  <section id="certifications">
+    <h2>Certifications</h2>
+    <ul>
+      <li>Scaler – MySQL & Database Design</li>
+      <li>Scaler – Data Analysis with Python</li>
+    </ul>
+  </section>
+
+  <section id="experience">
+    <h2>Work Experience</h2>
+    <ul>
+      <li><strong>Senior Associate</strong> – Tech Mahindra (2021–2023)</li>
+      <li><strong>Supervisor</strong> – Bit India (2020–2021)</li>
+      <li><strong>Senior Associate</strong> – Wipro (2017–2019)</li>
+    </ul>
+  </section>
+
+  <section id="resume">
+    <h2>Resume</h2>
+    <a href="Ajay_Resume.pdf" download>Download My Resume</a>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <form action="mailto:ajayajayajaya96@gmail.com" method="post" enctype="text/plain">
+      <input type="text" name="Name" placeholder="Your Name" required>
+      <input type="email" name="Email" placeholder="Your Email" required>
+      <textarea name="Message" placeholder="Your Message"></textarea>
+      <button type="submit">Send</button>
+    </form>
+  </section>
+
+  <footer>
+    <h3>Connect with me</h3>
+    <a href="https://github.com/ajay">GitHub</a> |
+    <a href="https://linkedin.com/in/ajaygandi">LinkedIn</a>
+  </footer>
+</body>
+</html>
