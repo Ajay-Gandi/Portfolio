@@ -9,7 +9,7 @@
 <body>
   <header>
     <h1>Ajay Gandi</h1>
-    <p>Python Developer | Tech Enthusiast</p>
+    <p>Python Developer | Tech Mahindra</p>
   </header>
 
   <section id="about">
