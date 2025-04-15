@@ -15,6 +15,7 @@
     <p>I am Ajay Gandi, a backend developer based in Hyderabad with a Bachelor of Technology in Mechanical Engineering from JNTU Hyderabad. With a strong foundation in Python, Django, SQL, and AWS, I specialize in building robust, scalable, and secure backend systems and RESTful APIs.</p>
     <p>Over the years, I have worked in diverse roles at Vigit Technologies, Tech Mahindra, Wipro, and Bit India, gaining valuable experience in technical support, team collaboration, and system troubleshooting. These roles have strengthened my ability to analyze problems, optimize solutions, and communicate effectively within fast-paced environments.</p>
     <p>I am certified in Data Analysis with Python and MySQL & Database Design by Scaler and have hands-on experience with Docker, Git, and cloud-based deployments. I’m passionate about continuous learning and committed to delivering high-quality solutions that align with business goals.</p>
+  
   </section>
 
   <section id="skills">
@@ -29,6 +30,7 @@
       <li>Operating Systems: Windows, Linux</li>
       <li>Cloud Technologies: AWS (EC2, RDS, etc.), Azure (Application Gateway)</li>
     </ul>
+
   </section>
 
   <section id="projects">
