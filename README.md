@@ -10,7 +10,6 @@
   <header>
     <h1>Ajay Gandi</h1>
   </header>
-
   <section id="about">
     <h2>About Me</h2>
     <p>I am Ajay Gandi, a backend developer based in Hyderabad with a Bachelor of Technology in Mechanical Engineering from JNTU Hyderabad. With a strong foundation in Python, Django, SQL, and AWS, I specialize in building robust, scalable, and secure backend systems and RESTful APIs.</p>
