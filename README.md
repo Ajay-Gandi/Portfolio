@@ -47,8 +47,9 @@
   </section>
 
   <section id="experience">
-    <h2>Work Experience</h2>
+    <h2>Professional Experience</h2>
     <ul>
+      <li>Presently associated with Vigit Technologies from Apr-2023 as a Software Developer</li>
       <li><strong>Software Developer</strong> - Vigit Technologies (2023-2025)</li>
       <li><strong>Senior Associate</strong> – Tech Mahindra (2021–2023)</li>
       <li><strong>Supervisor</strong> – Bit India (2020–2021)</li>
