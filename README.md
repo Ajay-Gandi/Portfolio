@@ -68,7 +68,7 @@
 
   <footer>
     <h3>Connect with me</h3>
-    <a href="https://github.com/ajay">GitHub</a> |
+    <a href="https://github.com/Ajay-Gandi">GitHub</a> |
     <a href="https://linkedin.com/in/ajaygandi">LinkedIn</a>
   </footer>
 </body>
