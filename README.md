@@ -29,18 +29,17 @@ I am certified in Data Analysis with Python and MySQL & Database Design by Scale
       <li>Container orchestration tools: Docker</li>
       <li>Operating Systems    : Windows, Linux</li>
       <li>Cloud Technologies   : Aws services like EC2, RDS etc. and Azure service like Application Gateways</li>
-    </ul>
   </section>
 
   <section id="projects">
-    <h2>Projects</h2>
-    <p>Project: -(April 2023 – March 2025)
+    <h2>Projects:</h2>
+    <b><strong>Project: -(April 2023 – March 2025)</strong><b>
       <li> Title:Game Management System </li>
       <li> Role:Software Developer (2023-Now)</li>
       <li> Team Size:10</li>
       <li> Technologies used:Python, Django, Microservices, Git, Docker, MySQL.
-      <p>  <li> Description:Designed to offer Application as a Service to Internal Operations Team. Operations, Support, Management, CRM, Payouts teams use application for their day-to-day work for resolving player’queries and process their withdrawals, CRM teams to run their campaigns, operations to checkteam’s performance to player’s queries.</li>  <p>
-      <li>Responsibilities:</li>
+      <li> Description:Designed to offer Application as a Service to Internal Operations Team. Operations, Support, Management, CRM, Payouts teams use application for their day-to-day work for resolving player’queries and process their withdrawals, CRM teams to run their campaigns, operations to checkteam’s performance to player’s queries.</li>
+      <h2>Responsibilities:</h2>
        <li>Development, Deployment, Documentation, Testing.</li>
        <li>Developed the core business logic in Python.</li>
       <li> Extensively worked with Restful Web Services.</li>
