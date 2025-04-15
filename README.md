@@ -23,13 +23,13 @@
     <h2>Skills</h2>
     <ul>
       <li>Programming Languages: Python
-      <li>Frameworks: Flask, Django</li>
-      <li>Databases: MySQL</li>
-      <li>IDE Tools : VS Code, PyCharm</li>
-      <li>Version Control: GitHub</li>
+      <li>Frameworks           : Flask, Django</li>
+      <li>Database             : MySQL</li>
+      <li>IDE Tools            : VS Code, PyCharm</li>
+      <li>Version Control      : GitHub</li>
       <li>Container orchestration tools: Docker</li>
-      <li>Operating Systems: Windows, Linux</li>
-      <li>Cloud Technologies: Aws services like EC2, RDS etc. and Azure service like Application Gateways</li>
+      <li>Operating Systems    : Windows, Linux</li>
+      <li>Cloud Technologies   : Aws services like EC2, RDS etc. and Azure service like Application Gateways</li>
     </ul>
   </section>
 
