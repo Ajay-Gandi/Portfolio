@@ -2,21 +2,20 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Ajay Gandi | Portfolio</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header>
     <h1>Ajay Gandi</h1>
-    <p>Software Developer | Vigit Technologies</p>
-  </header>
-  <header>
-    <p>Python Developer | Tech Mahindra</p>
   </header>
 
   <section id="about">
     <h2>About Me</h2>
-    <p>Hi, I’m Ajay Gandi – a backend developer with a passion for clean code, powerful APIs, and cloud-native solutions. Though I started with a degree in Mechanical Engineering, my curiosity for tech led me into the world of Python, Django, and cloud infrastructure. I’ve worked with teams at Tech Mahindra, Wipro, and Bit India, solving problems, building systems, and always learning something new. I'm currently diving deeper into scalable architectures, microservices, and automation tools. Welcome to my space!</p>
+    <p>I am Ajay Gandi, a backend developer based in Hyderabad with a Bachelor of Technology in Mechanical Engineering from JNTU Hyderabad. With a strong foundation in Python, Django, SQL, and AWS, I specialize in building robust, scalable, and secure backend systems and RESTful APIs.
+
+Over the years, I have worked in diverse roles at Vigit Technoligies Tech Mahindra, Wipro, and Bit India, gaining valuable experience in technical support, team collaboration, and system troubleshooting. These roles have strengthened my ability to analyze problems, optimize solutions, and communicate effectively within fast-paced environments.
+
+I am certified in Data Analysis with Python and MySQL & Database Design by Scaler and have hands-on experience with Docker, Git, and cloud-based deployments. I’m passionate about continuous learning and committed to delivering high-quality solutions that align with business goals.</p>
   </section>
 
   <section id="skills">
@@ -58,7 +57,7 @@
 
   <section id="resume">
     <h2>Resume</h2>
-    <a href="Ajay_Resume.pdf" download>Download My Resume</a>
+    <a href="Ajay.R.pdf" download>Download My Resume</a>
   </section>
 
   <section id="contact">
