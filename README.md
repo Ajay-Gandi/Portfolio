@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -9,6 +8,9 @@
 <body>
   <header>
     <h1>Ajay Gandi</h1>
+    <p>Software Developer | Vigit Technologies</p>
+  </header>
+  <header>
     <p>Python Developer | Tech Mahindra</p>
   </header>
 
@@ -20,12 +22,14 @@
   <section id="skills">
     <h2>Skills</h2>
     <ul>
-      <li>Python</li>
-      <li>Django</li>
-      <li>MySQL</li>
-      <li>Git, Docker</li>
-      <li>AWS</li>
-      <li>REST APIs</li>
+      <li>Programming Languages: Python
+      <li>Frameworks: Flask, Django</li>
+      <li>Databases: MySQL</li>
+      <li>IDE Tools : VS Code, PyCharm</li>
+      <li>Version Control: GitHub</li>
+      <li>Container orchestration tools: Docker</li>
+      <li>Operating Systems: Windows, Linux</li>
+      <li>Cloud Technologies: Aws services like EC2, RDS etc. and Azure service like Application Gateways</li>
     </ul>
   </section>
 
@@ -45,6 +49,7 @@
   <section id="experience">
     <h2>Work Experience</h2>
     <ul>
+      <li><strong>Software Developer</strong> - Vigit Technologies (2023-2025)</li>
       <li><strong>Senior Associate</strong> – Tech Mahindra (2021–2023)</li>
       <li><strong>Supervisor</strong> – Bit India (2020–2021)</li>
       <li><strong>Senior Associate</strong> – Wipro (2017–2019)</li>
