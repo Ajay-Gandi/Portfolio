@@ -16,7 +16,7 @@
 
   <section id="about">
     <h2>About Me</h2>
-    <p>I am a B.Tech graduate in Mechanical Engineering with a passion for software development. Experienced in backend development using Python, Django, and APIs. Certified in MySQL and Data Analysis.</p>
+    <p>Hi, I’m Ajay Gandi – a backend developer with a passion for clean code, powerful APIs, and cloud-native solutions. Though I started with a degree in Mechanical Engineering, my curiosity for tech led me into the world of Python, Django, and cloud infrastructure. I’ve worked with teams at Tech Mahindra, Wipro, and Bit India, solving problems, building systems, and always learning something new. I'm currently diving deeper into scalable architectures, microservices, and automation tools. Welcome to my space!</p>
   </section>
 
   <section id="skills">
@@ -50,10 +50,9 @@
     <h2>Professional Experience</h2>
     <ul>
       <li>Presently associated with Vigit Technologies from Apr-2023 as a Software Developer</li>
-      <li><strong>Software Developer</strong> - Vigit Technologies (2023-2025)</li>
-      <li><strong>Senior Associate</strong> – Tech Mahindra (2021–2023)</li>
-      <li><strong>Supervisor</strong> – Bit India (2020–2021)</li>
-      <li><strong>Senior Associate</strong> – Wipro (2017–2019)</li>
+      <li>Previous Jun-2021 to March -2023 with Tech Mahindra, Hyderabad. As a Senior Technical Support Associate.</li>
+      <li>Previous Bit India from Feb-2020 to Apr-2021 as Supervisor</li>
+      <li>Carrier started with Wipro from Apr-2017 to Nov-2019 as Senior. Associate</li>
     </ul>
   </section>
 
