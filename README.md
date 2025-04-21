@@ -69,9 +69,13 @@
     </section>
 
     <section id="resume">
-      <h2>Resume</h2>
-      <a href="Ajay.R.pdf" download>Download My Resume</a>
+  <h2>Resume</h2>
+  <p>
+    <a href="Ajay.R.pdf" target="_blank" rel="noopener noreferrer">👁️ View My Resume</a> |
+    <a href="Ajay.R.pdf" download>⬇️ Download My Resume</a>
+  </p>
     </section>
+
 
     <section id="contact">
       <h2>Contact Me</h2>
