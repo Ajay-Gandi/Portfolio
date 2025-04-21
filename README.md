@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -18,9 +17,7 @@
     <p>I am certified in Data Analysis with Python and MySQL & Database Design by Scaler and have hands-on experience with Docker, Git, and cloud-based deployments. I’m passionate about continuous learning and committed to delivering high-quality solutions that align with business goals.</p>
   </section>
 
-  <footer>
-    <p>&copy; 2025 Ajay Gandi. All rights reserved.</p>
-  </footer>
+
 </body>
 </html>
 
