@@ -91,7 +91,7 @@
   <footer>
     <h3>Connect with me</h3>
     <a href="https://github.com/Ajay-Gandi" target="_blank">GitHub</a> |
-    <a href="https://linkedin.com/in/ajaygandi" target="_blank">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/ajaygandi9030/" target="_blank">LinkedIn</a>
   </footer>
 
 </body>
